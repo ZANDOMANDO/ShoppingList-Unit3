@@ -1,0 +1,15 @@
+/Users/eduardogarcia/Projects/ShoppingList/bin/Debug/net6.0/ShoppingList
+/Users/eduardogarcia/Projects/ShoppingList/bin/Debug/net6.0/ShoppingList.deps.json
+/Users/eduardogarcia/Projects/ShoppingList/bin/Debug/net6.0/ShoppingList.runtimeconfig.json
+/Users/eduardogarcia/Projects/ShoppingList/bin/Debug/net6.0/ShoppingList.dll
+/Users/eduardogarcia/Projects/ShoppingList/bin/Debug/net6.0/ShoppingList.pdb
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.AssemblyReference.cache
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfo.cs
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.dll
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/refint/ShoppingList.dll
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.pdb
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ShoppingList.genruntimeconfig.cache
+/Users/eduardogarcia/Projects/ShoppingList/obj/Debug/net6.0/ref/ShoppingList.dll
